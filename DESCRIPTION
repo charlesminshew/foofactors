@@ -14,3 +14,5 @@ RoxygenNote: 6.1.1
 URL: https://github.com/charlesminshew/foofactors
 BugReports: https://github.com/charlesminshew/foofactors/issues
 Roxygen: list(markdown = TRUE)
+Imports: 
+    forcats
